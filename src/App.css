@@ -1,0 +1,35 @@
+* {
+  @apply font-body
+}
+
+p {
+  @apply text-[15px] text-darkGrayishBlue
+}
+
+.new h3 {
+  @apply text-white font-bold mb-2 text-lg hover:text-softOrange
+}
+
+.number {
+  @apply text-softRed text-4xl font-bold 
+}
+
+.text {
+  @apply grid justify-between col-span-2
+}
+
+.text h3 {
+  @apply text-veryDarkBlue text-lg font-bold hover:text-softRed
+}
+
+.menu a {
+  @apply hover:text-softRed
+}
+
+.visiblity {
+  @apply max-md:hidden
+} 
+
+/* .dim {
+  @apply absolute opacity-50 z-10
+} */

@@ -16,7 +16,14 @@ export default {
         "grayishBlue": "hsl(233, 8%, 79%)",
         "darkGrayishBlue": "hsl(236, 13%, 42%)",
         "veryDarkBlue": "hsl(240, 100%, 5%)",
-      }
+      },
+      screens: {
+        'max-sm': { 'max': '640px' },    // Up to 640px
+        'max-md': { 'max': '768px' },    // Up to 768px
+        'max-lg': { 'max': '1024px' },   // Up to 1024px
+        'max-xl': { 'max': '1280px' },   // Up to 1280px
+        'max-2xl': { 'max': '1536px' },  // Up to 1536px
+      },
     },
   },
   plugins: [],

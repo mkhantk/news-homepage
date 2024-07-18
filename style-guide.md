@@ -35,3 +35,10 @@ Very dark blue: hsl(240, 100%, 5%)
 - Weights: 400, 700, 800
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+
+
+Home
+        New
+        Popular
+        Trending
+        Categories
